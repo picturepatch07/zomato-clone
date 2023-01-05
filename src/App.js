@@ -1,11 +1,13 @@
 import React from 'react'
+import Homepage from './pages/home/Home'
 
 const App = () => {
   return (
     <div>
-      This is zomato
+      <Homepage />
     </div>
   )
 }
 
 export default App
+
